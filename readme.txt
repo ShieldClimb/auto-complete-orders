@@ -3,11 +3,11 @@ Contributors: shieldclimb
 Donate link: https://shieldclimb.com/
 Tags: Order Completion, Digital Products, Auto Complete Orders, Downloadable Products, WooCommerce
 Requires at least: 5.8
-Tested up to: 6.7
-Stable tag: 1.0.0
+Tested up to: 6.8
+Stable tag: 1.0.1
 Requires PHP: 7.2
 WC requires at least: 5.8
-WC tested up to: 9.7.1
+WC tested up to: 9.8.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -58,6 +58,10 @@ Yes, the plugin supports multi-currency stores as long as the payment gateway us
 2. With this plugin, the downloadable order is automatically marked as complete after payment.
 
 == ChangeLog ==
+
+= V1.0.1 =
+
+* **Updated**: Tested up to WordPress 6.8 and WooCommerce 9.8.1
 
 = V1.0.0 =
 

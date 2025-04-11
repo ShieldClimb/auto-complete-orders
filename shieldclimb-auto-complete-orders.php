@@ -4,12 +4,12 @@
  * Plugin Name: ShieldClimb – Auto Complete Orders for WooCommerce
  * Plugin URI: https://shieldclimb.com/free-woocommerce-plugins/auto-complete-orders/
  * Description: Auto Complete Orders for WooCommerce after payment. Works with downloadable & virtual products. Fast, lightweight & compatible with gateways.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires Plugins: woocommerce
  * Requires at least: 5.8
- * Tested up to: 6.7
+ * Tested up to: 6.8
  * WC requires at least: 5.8
- * WC tested up to: 9.7.1
+ * WC tested up to: 9.8.1
  * Requires PHP: 7.2
  * Author: shieldclimb.com
  * Author URI: https://shieldclimb.com/about-us/
