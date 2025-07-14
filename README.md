@@ -16,6 +16,10 @@ ShieldClimb's **[Auto Complete Orders for WooCommerce](https://shieldclimb.com/f
 1. **Upload and Install**: Upload the plugin and install it in WordPress.
 2. **Activate**: Click activate.
 
+## 📺 Watch the Full Install and Setup Tutorial Here:
+
+[![How to Install and Setup the Plugin](https://img.youtube.com/vi/2_vXFbznyEY/0.jpg)](https://www.youtube.com/watch?v=2_vXFbznyEY)
+
 ## 🔥 Features
 
 - **[Auto Completes Orders after Payment](https://shieldclimb.com/free-woocommerce-plugins/auto-complete-orders/)**: Automatically mark WooCommerce orders as complete after payment, saving you time and reducing the need for manual intervention. This ensures faster processing and immediate access for your customers.
@@ -37,6 +41,9 @@ ShieldClimb's **[Auto Complete Orders for WooCommerce](https://shieldclimb.com/f
 ![After](https://shieldclimb.com/wp-content/uploads/2025/04/shieldclimb-auto-complete-downloadable-orders-screenshot-after.png)
 
 ## 📜 Changelog
+
+### v1.0.2
+- Updated: Tested up to WooCommerce 9.9.5, readme and metadata updates
 
 ### v1.0.1
 - Updated: Tested up to WordPress 6.8 and WooCommerce 9.8.1
