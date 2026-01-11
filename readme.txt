@@ -1,13 +1,13 @@
 === ShieldClimb – Auto Complete Orders for WooCommerce ===
 Contributors: shieldclimb
-Donate link: https://shieldclimb.com/
+Donate link: https://shieldclimb.com/product/donate-now/
 Tags: Order Completion, Digital Products, Payment Integration, Virtual Products, WooCommerce
 Requires at least: 5.8
-Tested up to: 6.8
-Stable tag: 1.0.2
+Tested up to: 6.9
+Stable tag: 1.0.3
 Requires PHP: 7.2
 WC requires at least: 5.8
-WC tested up to: 9.9.5
+WC tested up to: 10.4.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -64,6 +64,12 @@ Yes, the plugin supports multi-currency stores as long as the payment gateway us
 2. With this plugin, the downloadable order is automatically marked as complete after payment.
 
 == ChangeLog ==
+
+= V1.0.3 =
+
+* **Updated**: Auto-complete now works more reliably with virtual & downloadable orders
+* **Fixed**: Compatibility with ShopMagic and other email/automation plugins
+* **Updated**: Tested up to WordPress 6.9 and WooCommerce 10.4.3
 
 = V1.0.2 =
 

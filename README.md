@@ -42,6 +42,11 @@ ShieldClimb's **[Auto Complete Orders for WooCommerce](https://shieldclimb.com/f
 
 ## 📜 Changelog
 
+### v1.0.3
+- Updated: Auto-complete now works more reliably with virtual & downloadable orders
+- Fixed: Compatibility with ShopMagic and other email/automation plugins
+- Updated: Tested up to WordPress 6.9 and WooCommerce 10.4.3
+
 ### v1.0.2
 - Updated: Tested up to WooCommerce 9.9.5, readme and metadata updates
 
@@ -66,7 +71,7 @@ Released under **GPLv2 or later**. See [LICENSE](https://www.gnu.org/licenses/ol
 ---
 ### 🌐 Helpful Links
 - **[ShieldClimb Free Woocommerce Plugins](https://shieldclimb.com/free-woocommerce-plugins/)** – Explore more free plugins.
-- **[How to Auto Complete WooCommerce Orders for Digital Product – Blog Post](https://shieldclimb.com/blog/auto-complete-woocommerce-orders/)** – Learn more about this feature.
+- **[How to Auto Complete WooCommerce Orders for Digital Product – Blog Post](https://shieldclimb.com/blog/how-to-auto-complete-woocommerce-orders/)** – Learn more about this feature.
 - **[High-Risk Card Payment Gateway](https://shieldclimb.com/high-risk-payment-gateway/)** – Secure payment processing for high-risk businesses.
 - **[Crypto Payment Gateway](https://shieldclimb.com/crypto-payment-gateway/)** – Secure and seamless crypto payment gateway for fast, global transactions with low fees. 
 - **[ShieldClimb Homepage](https://shieldclimb.com/)** – Explore all our services and solutions.
