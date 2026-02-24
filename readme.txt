@@ -4,10 +4,10 @@ Donate link: https://shieldclimb.com/product/donate-now/
 Tags: Order Completion, Digital Products, Payment Integration, Virtual Products, WooCommerce
 Requires at least: 5.8
 Tested up to: 6.9
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 Requires PHP: 7.2
 WC requires at least: 5.8
-WC tested up to: 10.4.3
+WC tested up to: 10.5.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -64,6 +64,11 @@ Yes, the plugin supports multi-currency stores as long as the payment gateway us
 2. With this plugin, the downloadable order is automatically marked as complete after payment.
 
 == ChangeLog ==
+
+= V1.0.4 =
+
+* **Fixed**: Added full compatibility with WooCommerce High-Performance Order Storage (HPOS) and Cart & Checkout Blocks. This ensures smooth operation and removes any warnings on stores using the latest WooCommerce features
+* **Updated**: Tested up to WooCommerce 10.5.2
 
 = V1.0.3 =
 

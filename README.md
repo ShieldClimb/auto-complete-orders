@@ -42,6 +42,10 @@ ShieldClimb's **[Auto Complete Orders for WooCommerce](https://shieldclimb.com/f
 
 ## 📜 Changelog
 
+### v1.0.4
+- Fixed: Added full compatibility with WooCommerce High-Performance Order Storage (HPOS) and Cart & Checkout Blocks. This ensures smooth operation and removes any warnings on stores using the latest WooCommerce features
+- Updated: Tested up to WooCommerce 10.5.2
+
 ### v1.0.3
 - Updated: Auto-complete now works more reliably with virtual & downloadable orders
 - Fixed: Compatibility with ShopMagic and other email/automation plugins
